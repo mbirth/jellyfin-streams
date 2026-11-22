@@ -13,7 +13,7 @@ So, this is my collection of .STRM files.
 NOTE
 ----
 
-The video files these URLs point to are **not** mine and not hosted by me. I have no control over them.
+The video files these .STRM files point to are **not** mine and not hosted by me. I have no control over them.
 
 
 Internet Archive Search
@@ -24,3 +24,5 @@ To easily find more movies and shows, search the Internet Archive for e.g.:
     title:("movie or show name goes here") AND mediatype:(movies)
 
 Then sort the results by "All-time views".
+
+**PULL REQUESTS WELCOME!**
