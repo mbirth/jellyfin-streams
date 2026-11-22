@@ -10,10 +10,10 @@ Turns out, Jellyfin supports those, too.
 So, this is my collection of .STRM files.
 
 
-NOTE
-----
-
-The video files these .STRM files point to are **not** mine and not hosted by me. I have no control over them.
+> [!NOTE]
+> These `.STRM` files merely contain URLs. This repository does not contain any copyright-infringing material. It is just
+> a catalog of links. The actual video files these `.STRM` files point to are **not** mine and not hosted by me.
+> I have no control over them.
 
 
 Internet Archive Search
