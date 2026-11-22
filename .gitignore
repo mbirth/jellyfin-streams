@@ -2,5 +2,6 @@
 ._.*
 /*
 !.gitignore
+!/README.md
 !/Stream Movies/
 !/Stream Series/
